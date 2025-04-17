@@ -18,3 +18,7 @@ If you’ve starred or forked my projects, head over to:
 👉 https://github.com/louis-shl-nguyen
 
 See you there!  
+
+---
+
+*Last updated: 17 April, 2025*  
