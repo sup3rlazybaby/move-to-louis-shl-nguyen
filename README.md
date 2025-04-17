@@ -3,7 +3,7 @@
 Hi,
 
 **This account is now deprecated.**  
-I’ve migrated all my public work to a new profile: **[louis-shl-nguyen](https://github.com/louis-sh-nguyen)**.  
+I’ve migrated all my public work to a new profile: **[louis-sh-nguyen](https://github.com/louis-sh-nguyen)**.  
 
 ---
 
